@@ -1,4 +1,4 @@
-# 💸 Bill Splitter App (PERN Stack)
+# 💸 Bill Splitter App
 
 ## 🚀 30-Second Elevator Pitch
 
